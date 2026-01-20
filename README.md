@@ -2,7 +2,7 @@
 
 <br>
 
-Unity 3D (URP) 환경에서 구현한 알고리즘 기말고사 프로젝트
+Unity 3D (URP) 환경
 
 <br>
 
